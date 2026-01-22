@@ -1,5 +1,3 @@
-//# Meu-her-i-ninja-Helmut
-//Desafio do curso de lógica da DIO
 class heroiDaAventura {
     constructor(nomeDoHeroi, idadeDoHeroi, tipoDoHeroi, alfaEOmega, tipoDeArmaOuMeio) {
         this.nomeDoHeroi = nomeDoHeroi;
